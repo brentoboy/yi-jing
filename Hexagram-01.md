@@ -1,24 +1,25 @@
-# 1st Gua
-第 一 卦
+# 第 一 卦 : 1st Gua
 
-䷀ 乾
+
+乾 : Radiant Energy
+
+#Table of Contents
+* [The Image](#the-image)
+  * [Ancient Commentary on The Image](#ancient-commentary-on-the-image)
+  * [My comments on The Image](#my-comments-on-the-image)
+* [The Judgement](#the-judgement)
+  * [Ancient Commentary on The Judgement](#ancient-commentary-on-the-judgement)
 
 ## The Image
 
-**Hexagram**: ䷀ (Radiant Energy)
+**Hexagram**: ䷀
 
-**Trigrams**: ☰ / ☰  (Heaven / Heaven)
+**Above (the outer universe)**: [Heaven](Trigram-Heaven.md) : Heaven - Leading Energy
 
-**Above (the outer universe)**: Heaven, leading-energy
-
-**Below (the inner universe)**: Heaven, leading-energy
-
-| Original | English Translation |
-| -: | -- |
-| 乾 | Radiant Energy |
+**Below (the inner universe)**: [Heaven](Trigram-Heaven.md) : Heaven - Leading Energy
 
 
-### Commentary on the Image
+### Ancient Commentary on the Image
 | Original | English Translation |
 | -: | -- |
 | 象 曰 | Image says |
@@ -26,7 +27,7 @@
 | 君 子 以 自 強 不 息 | Noble ones, therefore, apply themselves without ceasing |
 
 
-### My Comments on the Image:
+### My Comments on The Image
 the virtue of this hexagram seems to be persistent effort
 
 the other 7 double-trigram hexagrams (2 of the same trigram) talk about 'repeating' the subject of the trigram
