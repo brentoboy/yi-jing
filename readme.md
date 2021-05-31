@@ -1,4 +1,4 @@
-# 道德經 - Dao De Jing
+# 易經 - Yi Jing
 
 # Ancient-Wisdom about the Changes
 
