@@ -1,5 +1,5 @@
 # 27th Gua
-第二十七卦
+第 二 十 七 卦
 
 ## The Image
 
@@ -7,9 +7,9 @@
 
 **Trigrams**: ☶ / ☳  (mountain / thunder)
 
-**Above (the outer universe)**: Mountain, staying still
+**Above (the outer universe)**: mountain, staying still
 
-**Below (the inner universe)**: Thunder, initial movement
+**Below (the inner universe)**: thunder, initial movement
 
 | Original | English Translation |
 | -: | -- |
@@ -19,10 +19,10 @@
 ### Commentary on the Image
 | Original | English Translation |
 | -: | -- |
-| 象曰 | The image says |
+| 象 曰 | image says |
 | 山 下 有 雷 頤 | the thunder below the mountains: rationing |
-| 君子以慎言語 | so, nobles discuss in careful collaboration |
-| 節飲食 | dividing up the food and the drinks |
+| 君 子 以 慎 言 語 | so, nobles discuss in careful collaboration |
+| 節 飲 食 | dividing up the food and the drinks |
 
 
 
@@ -48,30 +48,30 @@ The following things seems to be "in play" as part of the current change, and yo
 | Original | English Translation |
 | -: | -- |
 | 頤 | rationing |
-| 貞吉 | virtue, good fortune |
-| 觀頤 | looking after rations |
-| 自求口實 | self-requesting mouth-fruit |
+| 貞 吉 | virtue, good fortune |
+| 觀 頤 | looking after rations |
+| 自 求 口 實 | self-requesting mouth-fruit |
 
 
 
 ### Ancient Commentary on the Judgement
 | Original | English Translation |
 | -: | -- |
-| 彖曰 | Tuàn says |
+| 彖 曰 | Tuàn says |
 | 頤 | rationing |
-| 貞吉 | virtue, good fortune |
-| 養正則吉 | supporting proper-correctness resulted in good fortune |
-| 觀頤 | looking after rations |
-| 觀其所養 | looking after, one's home supporting  |
+| 貞 吉 | virtue, good fortune |
+| 養 正 則 吉 | supporting proper-correctness resulted in good fortune |
+| 觀 頤 | looking after rations |
+| 觀 其 所 養 | looking after, one's home supporting  |
 | 也 | . |
-| 自求口實 | self-requesting mouth-fruit |
-| 觀其自養 | looking after, one's self supporting |
+| 自 求 口 實 | self-requesting mouth-fruit |
+| 觀 其 自 養 | looking after, one's self supporting |
 | 也 | . |
-| 天地養萬物 | heaven and earth support the 10k things |
-| 聖人養賢 | daoists support the virtuous (people) |
-| 以及萬民 | in order to provide the 10k citizens |
-| 頤之時大 | their rations over a great time-period |
-| 矣哉 | ! |
+| 天 地 養 萬 物 | heaven and earth support the 10k things |
+| 聖 人 養 賢 | daoists support the virtuous (people) |
+| 以 及 萬 民 | in order to provide the 10k citizens |
+| 頤 之 時 大 | their rations over a great time-period |
+| 矣 哉 | ! |
 
 
 
@@ -162,8 +162,8 @@ it doesn't hoard them.
 | Original | English Translation |
 | -: | -- |
 | 象 曰 | Image says |
-| 顛頤之吉 | Mountain peak ration's good fortune: |
-| 上施光 | The above bestows light |
+| 顛 頤 之 吉 | Mountain peak ration's good fortune: |
+| 上 施 光 | The above bestows light |
 | 也 | . |
 
 ### My Commentary on Line 4
@@ -191,17 +191,17 @@ finish up the planning phase for this project"
 ## Line 5
 | Original | English Translation |
 | -: | -- |
-| 六五 | 6 at the fifth |
-| 拂經 | setting aside ancient wisdom |
-| 居貞吉 | remaining in a place of virtue, good fortune |
-| 不可涉大川 | when not permitted to cross the great river |
+| 六 五 | 6 at the fifth |
+| 拂 經 | setting aside ancient wisdom |
+| 居 貞 吉 | remaining in a place of virtue, good fortune |
+| 不 可 涉 大 川 | when not permitted to cross the great river |
 
 ### Ancient Commentary on Line 5
 | Original | English Translation |
 | -: | -- |
 | 象 曰 | Image says |
-| 居貞之吉 | remaining in a place of virtue's good fortine: |
-| 順以從上 | submitting in obedience to the superior |
+| 居 貞 之 吉 | remaining in a place of virtue's good fortine: |
+| 順 以 從 上 | submitting in obedience to the superior |
 | 也 | . |
         
 ### Ancient Commentary on Line 5
@@ -213,7 +213,7 @@ This might feel like bad fortune, but it is actually good.  When the decision to
 ## Line 6
 | Original | English Translation |
 | -: | -- |
-| 上 九 |  |
+| 上 九 | 9 at the top |
 | 由 頤 | due to the rationing |
 | 厲 吉 | acute good fortune |
 | 利 涉 大 川 | benefit by crossing the great river |
@@ -236,16 +236,16 @@ What this line seems to say is that when the planning phase is complete, there i
 ## Commentary on the Sequence
 | Original | English Translation |
 | -: | -- |
-| 序卦 | ... |
-| 物畜然後可養 | ... |
-| 故受之以 | ... |
-| 頤 | ... |
+| 序 卦 | Sequencing the Gua |
+| 物 畜 然 後 可 養 | ... |
+| 故 受 之 以 | ... |
+| 頤 | rationing |
 
 | Original | English Translation |
 | -: | -- |
-| 序卦 | ... |
-| 頤者 |  |
-| 養也 |  |
-| 不養則不可動 |  |
-| 故受之以 |  |
-| 大過 |  |
+| 序 卦 | Sequencing the Gua |
+| 頤 者 | ration-er |
+| 養 也 | ...! |
+| 不 養 則 不 可 動 | ... |
+| 故 受 之 以 | ... |
+| 大 過 | ... |
