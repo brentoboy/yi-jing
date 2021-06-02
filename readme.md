@@ -44,7 +44,7 @@ Made available for distribution under the Creative Commons License.
 26. 大畜 Da Xu (Hexagram-26.md)
 27. [䷚ - 頤 - Yi - Rationing](Hexagram-27.md) : Mountain / Thunder
 28. 大過 Da Guo (Hexagram-28.md)
-29. 坎 Kan (Hexagram-29.md)
+29. [䷜ - 坎 - Kǎn - Whitewater](Hexagram-29.md) : Water / Water
 30. 離 Li (Hexagram-30.md)
 31. 咸 Xian (Hexagram-31.md)
 32. 恆 Heng (Hexagram-32.md)
