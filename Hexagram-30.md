@@ -1,4 +1,4 @@
-# 30 - ䷝ - 離 - Lí - Lasting-Light
+# 30 - ䷝ - 離 - Lí - Celestial-Light
 
 ## Table Of Contents
 
@@ -39,7 +39,7 @@
 ## The Judgement
 | Original | English Translation |
 | -: | -- |
-| 離 | lasting-light |
+| 離 | celestial-light |
 | 利 貞 | benefiting from devotion |
 | 亨 | prosperity |
 | 畜 牝 牛 | raising cows |
@@ -74,7 +74,7 @@
 ### Ancient Commentary on the Image
 | Original | English Translation |
 | -: | -- |
-| 明 兩 作 離 | the two lights give off lasting-light |
+| 明 兩 作 離 | the two lights give off celestial-light |
 | 大 人 以 繼 明 照 于 四 方 | great-ones, therefore, leave behind brilliance, illuminating all 4 directions |
 <br />
 
@@ -113,7 +113,7 @@ particularly drunk people (who often stagger in the dark)\
 | Original | English Translation |
 | -: | -- |
 | 六 二 | 6 at the second |
-| 黃 離 | yellow lasting-light |
+| 黃 離 | yellow celestial-light |
 | 元 吉 | foundation of good fortune |
 <br />
 
@@ -140,7 +140,7 @@ celestial light is hope, it is desire, energy/motivation, inspiring
 | Original | English Translation |
 | -: | -- |
 | 九 三 | 9 at the third |
-| 日 昃 之 離 | The lasting-light of the sun diminishing |
+| 日 昃 之 離 | The celestial-light of the sun diminishing |
 | 不 鼓 缶 而 歌 | if not beating drums and singing |
 | 則 大 耋 之 嗟 凶 | then the sighs of old-age will be terrible |
 <br />
@@ -210,7 +210,7 @@ it describes the sun, having no where to lodge, so continually traveling
 ### My Comments on Line 5
 even tragedy ends with hope (like all extremes, it causes rebound of its counterpart)
 
-lasting-light, within, is hope
+celestial-light, within, is hope
 <br />
 <br />
 
@@ -236,7 +236,7 @@ lasting-light, within, is hope
 
 
 ### My Comments on Line 6
-um, not sure what this has to do with Lasting-Light\
+um, not sure what this has to do with celestial-light\
 the "king" is theoretically divinely appointed\
 its his job to maintain peace, order, and stuff\
 so he dispatches troops to squash a rebellion\
