@@ -50,6 +50,15 @@
 | Original | English Translation |
 | -: | -- |
 | 彖 曰 | Tuàn says |
+| 離 |  |
+| 麗 也 |  |
+| 日 月 麗 乎 天 |  |
+| 百 谷 草 木 麗 乎 土 |  |
+| 重 明 以 麗 乎 正 |  |
+| 乃 化 成 天 下 |  |
+| 柔 麗 乎 中 正 |  |
+| 故 亨 |  |
+| 是 以 畜 牝 牛 吉 也 |  |
 <br />
 
 ### My Comments on the Judgement
