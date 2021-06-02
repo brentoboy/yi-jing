@@ -1,4 +1,4 @@
-# 2 - ䷁ 坤 - Kūn - Open Fields
+# 2 - ䷁ - 坤 - Kūn - Open Fields
 
 ## Table Of Contents
 
@@ -78,7 +78,6 @@
 | 乃 終 有 慶 |  |
 | 安 貞 之 吉 |  |
 | 應 地 无 疆 |  |
-
 <br />
 
 ### My Comments on the Judgement
@@ -122,6 +121,7 @@
 | 馴 致 其 道 |  |
 | 至 堅 冰 也 |  |
 <br />
+
 
 ### My Comments on Line 1:
 This doesn't necessarily say that your situation is one of frostiness becoming ice.
@@ -215,6 +215,7 @@ it may be a thankless job, but it really needs someone with extensive experience
 | 慎 不 害 也 |  |
 <br />
 
+
 ### My Comments on Line 4
 The virtue in this line seems to be humility or restraint.
 Having something, doesn't mean you have to flaunt it.
@@ -294,6 +295,7 @@ the 'top most' virtue of the earth is that it outlasts all that oppose it.
 As Laozi says, "the most yielding of all substances under heaven outlast the most forceful" (DaoDeJing #43).
 <br />
 <br />
+
 
 ## All Lines
 The first 2 Guas have a thing that the others don't have

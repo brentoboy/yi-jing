@@ -1,4 +1,4 @@
-# 27 - ䷚ 頤 - Yi - Rationing
+# 27 - ䷚ - 頤 - Yi - Rationing
 
 ## Table Of Contents
 

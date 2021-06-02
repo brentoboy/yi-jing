@@ -1,4 +1,4 @@
-# 1 - ䷀ 乾 - Qián - Radiant Energy
+# 1 - ䷀ - 乾 - Qián - Radiant Energy
 
 ## Table Of Contents
 
@@ -66,6 +66,7 @@
 | 乃 利 貞 |  |
 | 首 出 庶 物 |  |
 | 萬 國 咸 寧 |  |
+<br />
 
 
 ### My Comments on the Judgement
@@ -73,6 +74,8 @@ wise people can learn that consistent,
 persistent, dependable effort 
 is indeed a source of prosperity,
 and a beneficial virtue.
+<br />
+<br />
 
 
 ## The Image
@@ -122,15 +125,18 @@ and the inner universe (the preson in a position to act boldly, according to the
 | 勿 用 | don't use |
 <br />
 
+
 ### Ancient Commentary on Line 1
 | Original | English Translation |
 | -: | -- |
 | 象 曰 | image says |
-| 潛 龍 勿 用 | "Diding dragon don't use" |
+| 潛 龍 勿 用 | "hiding dragon don't use" |
 | 陽 在 下 也 | yang occupies the lower! |
 
 I believe he is point out that the bottom line is a yang line, and its not his place to be so bold (since he's so lowly).
 <br />
+<br />
+
 
 ### My Comments on Line 1:
 If the dragon in this imagery is the constellation,
@@ -267,6 +273,7 @@ To me, this is saying, you are in a season of progress "keep jumping".
 | 象 曰 | image says |
 | 飛 龍 在 天 | "flying dragon in the heavens" |
 | 大 人 造 也 | great people being productive! |
+<br />
 <br />
 
 
