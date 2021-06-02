@@ -3,11 +3,11 @@
 # Ancient-Wisdom about the Changes
 
 Orignial Chinese attributed to Various contributors througout time
-*    Fuxi, the mythical emperor, patriarch of the chinese people
-*    Taun Zhuan
-*    Xiang Zhuan
-*    King Wen
-*    Confucious
+*    Fu Xi (c. 2000 BCE) , the mythical emperor, patriarch of the chinese people theoretically identified the 8 trigrams and their relationships to each other.
+*    King Wen of Zhou (c. 1100 BCE), combined the 8 into 64 hexagrams, wrote the "judgements" of each hexagram and arranged them in the sequence we have today
+*    The Duke of Zhou (c. 1040 BCE), added the text for each of the 6 lines.
+*    Confucious (c. 500 BCE), added comments
+*    for additional details see [wikipedia](https://en.wikipedia.org/wiki/I_Ching#Name_and_authorship)
 
 translated into english by Brent Larsen
 
@@ -15,86 +15,145 @@ translated into english by Brent Larsen
 
 Made available for distribution under the Creative Commons License.
 
-##  The 8 Trigams (Bagua)
-1. (Trigram-Heaven.md)
-1. (Trigram-Earth.md)
-1. (Trigram-.md)
-1. (Trigram-.md)
-1. (Trigram-.md)
-1. (Trigram-.md)
-1. (Trigram-.md)
-1. (Trigram-.md)
-
 ## The 64 Hexagrams
-1. [䷀ 乾 - Radiant Energy](Hexagram-01.md)
-2. (Hexagram-02.md)
-3. (Hexagram-03.md)
-4. (Hexagram-04.md)
-5. (Hexagram-05.md)
-6. (Hexagram-06.md)
-7. (Hexagram-07.md)
-8. (Hexagram-08.md)
-9. (Hexagram-09.md)
-10. (Hexagram-10.md)
-11. (Hexagram-11.md)
-12. (Hexagram-12.md)
-13. (Hexagram-13.md)
-14. (Hexagram-14.md)
-15. (Hexagram-15.md)
-16. (Hexagram-16.md)
-17. (Hexagram-17.md)
-18. (Hexagram-18.md)
-19. (Hexagram-19.md)
-20. (Hexagram-20.md)
-21. (Hexagram-21.md)
-22. (Hexagram-22.md)
-23. (Hexagram-23.md)
-24. (Hexagram-24.md)
-25. (Hexagram-25.md)
-26. (Hexagram-26.md)
-27. [䷚ 頤 - Rationing](Hexagram-27.md)
-28. (Hexagram-28.md)
-29. (Hexagram-29.md)
-30. (Hexagram-30.md)
-31. (Hexagram-31.md)
-32. (Hexagram-32.md)
-33. (Hexagram-33.md)
-34. (Hexagram-34.md)
-35. (Hexagram-35.md)
-36. (Hexagram-36.md)
-37. (Hexagram-37.md)
-38. (Hexagram-38.md)
-39. (Hexagram-39.md)
-40. (Hexagram-40.md)
-41. (Hexagram-41.md)
-42. (Hexagram-42.md)
-43. (Hexagram-43.md)
-44. (Hexagram-44.md)
-45. (Hexagram-45.md)
-46. (Hexagram-46.md)
-47. (Hexagram-47.md)
-48. (Hexagram-48.md)
-49. (Hexagram-49.md)
-50. (Hexagram-50.md)
-51. (Hexagram-51.md)
-52. (Hexagram-52.md)
-53. (Hexagram-53.md)
-54. (Hexagram-54.md)
-55. (Hexagram-55.md)
-56. (Hexagram-56.md)
-57. (Hexagram-57.md)
-58. (Hexagram-58.md)
-59. (Hexagram-59.md)
-60. (Hexagram-60.md)
-61. (Hexagram-61.md)
-62. (Hexagram-62.md)
-63. (Hexagram-63.md)
-64. (Hexagram-64.md)
+1. [䷀ 乾 - Qián - Radiant Energy](Hexagram-01.md) Heaven / Heaven
+2. [䷁ 坤 - Kūn - Open Fields](Hexagram-02.md) Earth / Earth
+3. 屯 Zhun (Hexagram-03.md)
+4. 蒙 Meng (Hexagram-04.md)
+5. 需 Xu (Hexagram-05.md)
+6. 訟 Song (Hexagram-06.md)
+7. 師 Shi (Hexagram-07.md)
+8. 比 Bi (Hexagram-08.md)
+9. 小畜 Xiao Xu (Hexagram-09.md)
+10. 履 Lu (Hexagram-10.md)
+11. 泰 Tai (Hexagram-11.md)
+12. 否 Pi (Hexagram-12.md)
+13. 同人 Tong Ren (Hexagram-13.md)
+14. 大有 Da You (Hexagram-14.md)
+15. 謙 Qian (Hexagram-15.md)
+16. 豫 Yu (Hexagram-16.md)
+17. 隨 Sui (Hexagram-17.md)
+18. 蠱 Gu (Hexagram-18.md)
+19. 臨 Lin (Hexagram-19.md)
+20. 觀 Guan (Hexagram-20.md)
+21. 噬嗑 Shi He (Hexagram-21.md)
+22. 賁 Bi (Hexagram-22.md)
+23. 剝 Bo (Hexagram-23.md)
+24. 復 Fu (Hexagram-24.md)
+25. 无妄 Wu Wang (Hexagram-25.md)
+26. 大畜 Da Xu (Hexagram-26.md)
+27. 頤 [䷚ 頤 - Yi - Rationing](Hexagram-27.md) Mountain / Thunder
+28. 大過 Da Guo (Hexagram-28.md)
+29. 坎 Kan (Hexagram-29.md)
+30. 離 Li (Hexagram-30.md)
+31. 咸 Xian (Hexagram-31.md)
+32. 恆 Heng (Hexagram-32.md)
+33. 遯 Dun (Hexagram-33.md)
+34. 大壯 Da Zhuang (Hexagram-34.md)
+35. 晉 Jin (Hexagram-35.md)
+36. 明夷 Ming Yi (Hexagram-36.md)
+37. 家人 Jia Ren (Hexagram-37.md)
+38. 睽 Kui (Hexagram-38.md)
+39. 蹇 Jian (Hexagram-39.md)
+40. 解 Jie (Hexagram-40.md)
+41. 乾 Qian (Hexagram-41.md)
+42. 益 Yi (Hexagram-42.md)
+43. 夬 Guai (Hexagram-43.md)
+44. 姤 Gou (Hexagram-44.md)
+45. 萃 Cui (Hexagram-45.md)
+46. 升 Sheng (Hexagram-46.md)
+47. 困 Kun (Hexagram-47.md)
+48. 井 Jing (Hexagram-48.md)
+49. 革 Ge (Hexagram-49.md)
+50. 鼎 Ding (Hexagram-50.md)
+51. 震 Zhen (Hexagram-51.md)
+52. 艮 Gen (Hexagram-52.md)
+53. 漸 Jian (Hexagram-53.md)
+54. 歸妹 Gui Mei (Hexagram-54.md)
+55. 豐 Feng (Hexagram-55.md)
+56. 旅 Lu (Hexagram-56.md)
+57. 巽 Xun (Hexagram-57.md)
+58. 兌 Dui (Hexagram-58.md)
+59. 渙 Huan (Hexagram-59.md)
+60. 節 Jie (Hexagram-60.md)
+61. 中孚 Zhong Fu (Hexagram-61.md)
+62. 小過 Xiao Guo (Hexagram-62.md)
+63. 既濟 Ji Ji(Hexagram-63.md)
+64. 未濟 Wei Ji (Hexagram-64.md)
+
+
+乾 Qian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Ten Wings (theoretically written by Confucious)
 
 More Ancient Commentaries
-1. Xi Ci I - The Great Treatise 1
-2. Xi Ci II - The Great Treatise 2
-3. Shuo Gua
-4. Xu Gua
-5. Za Gua
+1. Xi Ci I - The Great Commentary
+2. Xi Ci II
+3. WenYan - 
+4. Shuo Gua
+5. Xu Gua
+6. Za Gua
 
