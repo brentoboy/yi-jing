@@ -16,8 +16,8 @@ translated into english by Brent Larsen
 Made available for distribution under the Creative Commons License.
 
 ## The 64 Hexagrams
-1. [䷀ 乾 - Qián - Radiant Energy](Hexagram-01.md) Heaven / Heaven
-2. [䷁ 坤 - Kūn - Open Fields](Hexagram-02.md) Earth / Earth
+1. [䷀ 乾 - Qián - Radiant Energy](Hexagram-01.md) : Heaven / Heaven
+2. [䷁ 坤 - Kūn - Open Fields](Hexagram-02.md) : Earth / Earth
 3. 屯 Zhun (Hexagram-03.md)
 4. 蒙 Meng (Hexagram-04.md)
 5. 需 Xu (Hexagram-05.md)
@@ -42,7 +42,7 @@ Made available for distribution under the Creative Commons License.
 24. 復 Fu (Hexagram-24.md)
 25. 无妄 Wu Wang (Hexagram-25.md)
 26. 大畜 Da Xu (Hexagram-26.md)
-27. 頤 [䷚ 頤 - Yi - Rationing](Hexagram-27.md) Mountain / Thunder
+27. [䷚ 頤 - Yi - Rationing](Hexagram-27.md) : Mountain / Thunder
 28. 大過 Da Guo (Hexagram-28.md)
 29. 坎 Kan (Hexagram-29.md)
 30. 離 Li (Hexagram-30.md)
