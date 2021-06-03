@@ -67,7 +67,7 @@ Made available for distribution under the Creative Commons License.
 49. 革 Ge (Hexagram-49.md)
 50. 鼎 Ding (Hexagram-50.md)
 51. [䷲ - 震 - Zhèn - Quaking-Thunder](Hexagram-51.md) : Thunder / Thunder
-52. 艮 Gen (Hexagram-52.md) : Mountain / Mountain
+52. [䷳ - 艮 - Gèn - Holding Still](Hexagram-52.md) : Mountain / Mountain
 53. 漸 Jian (Hexagram-53.md)
 54. 歸妹 Gui Mei (Hexagram-54.md)
 55. 豐 Feng (Hexagram-55.md)
