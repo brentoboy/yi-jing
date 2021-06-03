@@ -72,8 +72,8 @@ This seems to be a picture of someone mediating until they let go of all attachm
 <br />
 
 ## The Image
-☶ ?\
-☳ ?
+☶ Mountain\
+☶ Mountain
 <br />
 <br />
 
