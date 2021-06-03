@@ -72,7 +72,7 @@
 ### Ancient Commentary on the Image
 | Original | English Translation |
 | -: | -- |
-| 隨 風 |  "Bowing to the winds ... Submission |
+| 隨 風 |  Bowing to the winds ... Submission |
 | 君 子 以 申 命 行 事 | So, noble ones report on assigned responsibilites |
 <br />
 
