@@ -72,8 +72,8 @@ Made available for distribution under the Creative Commons License.
 54. 歸妹 Gui Mei (Hexagram-54.md)
 55. 豐 Feng (Hexagram-55.md)
 56. 旅 Lu (Hexagram-56.md)
-57. 巽 Xun (Hexagram-57.md)
-58. 兌 Dui (Hexagram-58.md)
+57. [䷸ - 巽 - Xùn - Submission](Hexagram-57.md) : Wind / Wind
+58. [䷹ - 兌 - Duì - Exchange](Hexagram-58.md) : Lake / Lake
 59. 渙 Huan (Hexagram-59.md)
 60. 節 Jie (Hexagram-60.md)
 61. 中孚 Zhong Fu (Hexagram-61.md)
