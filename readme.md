@@ -78,11 +78,8 @@ Made available for distribution under the Creative Commons License.
 60. 節 Jie (Hexagram-60.md)
 61. 中孚 Zhong Fu (Hexagram-61.md)
 62. 小過 Xiao Guo (Hexagram-62.md)
-63. 既濟 Ji Ji(Hexagram-63.md)
+63. [䷾ - 既濟 - Ji Ji - Already Crossing the River](Hexagram-63.md) : Water / Fire
 64. 未濟 Wei Ji (Hexagram-64.md)
-
-
-乾 Qian
 
 
 
