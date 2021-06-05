@@ -56,7 +56,7 @@ Made available for distribution under the Creative Commons License.
 38. 睽 Kui (Hexagram-38.md)
 39. 蹇 Jian (Hexagram-39.md)
 40. 解 Jie (Hexagram-40.md)
-41. 乾 Qian (Hexagram-41.md)
+41. [䷨ - 損 - Sǔn - Letting Go](Hexagram-41.md) : Mountain / Lake
 42. 益 Yi (Hexagram-42.md)
 43. 夬 Guai (Hexagram-43.md)
 44. 姤 Gou (Hexagram-44.md)
