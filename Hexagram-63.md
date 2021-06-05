@@ -91,7 +91,7 @@ Perhaps its the scenerio where life is the most fulfilling.
 ### Ancient Commentary on the Image
 | Original | English Translation |
 | -: | -- |
-| 水 在 火 上 既濟 | : water above, fire within ... already crossing the river |
+| 水 在 火 上 既濟 | water above, fire within ... already crossing the river |
 | 君 子 以 思 患 | noble-ones, therefore, considered the dangers |
 | 而 預 防 之 | and prepared to avoid them |
 <br />
