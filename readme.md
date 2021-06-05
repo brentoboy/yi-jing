@@ -46,7 +46,7 @@ Made available for distribution under the Creative Commons License.
 28. 大過 Da Guo (Hexagram-28.md)
 29. [䷜ - 坎 - Kǎn - Whitewater](Hexagram-29.md) : Water / Water
 30. [䷝ - 離 - Lí - Celestial-Light](Hexagram-30.md) : Fire / Fire
-31. 咸 Xian (Hexagram-31.md)
+31. [䷞ - 咸 - Xián - Applying Influence](Hexagram-31.md) : Lake / Mountain
 32. 恆 Heng (Hexagram-32.md)
 33. 遯 Dun (Hexagram-33.md)
 34. 大壯 Da Zhuang (Hexagram-34.md)
