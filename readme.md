@@ -61,7 +61,7 @@ Made available for distribution under the Creative Commons License.
 43. 夬 Guai (Hexagram-43.md) : Lake / Heaven
 44. 姤 Gou (Hexagram-44.md) : Heaven / Wind
 45. 萃 Cui (Hexagram-45.md) : Lake / Earth
-46. 升 Sheng (Hexagram-46.md) : Earth / Wind
+46. [䷭ - 升 - Shēng - Slow-Growing](Hexagram-46.md) : Earth / Wood
 47. 困 Kun (Hexagram-47.md) : Lake / Water
 48. 井 Jing (Hexagram-48.md) : Water / Wind
 49. 革 Ge (Hexagram-49.md) : Lake / Fire
