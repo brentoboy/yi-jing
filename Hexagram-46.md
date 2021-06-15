@@ -1,4 +1,4 @@
-# - 46 - ䷭ - 升 - Shēng - Slow-Growing
+# 46 - ䷭ - 升 - Shēng - Slow-Growing
 ## Table Of Contents
 
 [The Judgement](#the-judgement)
