@@ -81,9 +81,6 @@ Made available for distribution under the Creative Commons License.
 63. [䷾ - 既濟 - Ji Ji - Already Crossing the River](Hexagram-63.md) : Water / Fire
 64. [䷿ - 未濟 - Wei Ji - Not Yet Crossing the River](Hexagram-64.md) : Fire / Water
 
-
-
-
 More Ancient Commentaries
 
 * Xi Ci I - The Great Commentary
