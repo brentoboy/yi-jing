@@ -110,6 +110,8 @@ the way that the "The 8("Ba") Trigram("Gua") images interchanging" happens is by
 
 
 ### About each of the Ba-gua
+| Original | English Translation |
+| -: | -- |
 | 雷 以 動 之 | By the thunder we are moved |
 | 風 以 散 之 | By the wind we are dispersed |
 | 雨 以 潤 之 | By the rain we are watered |
