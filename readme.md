@@ -85,6 +85,6 @@ Made available for distribution under the Creative Commons License.
 * Xi Ci I - The Great Commentary
 * Xi Ci II
 * WenYan
-* [Shuo Gua](shuo-gua.md)
+* [Shuo Gua](shuo-gua.md) : explaination of the trigrams (incomplete)
 * Xu Gua
 * Za Gua
