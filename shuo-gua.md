@@ -362,23 +362,8 @@ when effective, it finishes
 <br />
 <br />
 
-
-## A Quick table summarizing all of that
-
-| Symbol  | Trigram | Name | Direction | Action |
-| -- | -- | -- | -- | -- |
-| 震 Zhèn | ☳ | Thunder   | East       | Introduces |
-| 巽 Xùn  | ☴ | Wind/Wood | South-East | Disperses |
-| 離 Lí   | ☲ | Fire      | South      | Sheds light |
-| 坤 Kūn  | ☷ | Earth     | South-West | Distributes support |
-| 兌 Duì  | ☱ | Lake      | West       | Advertises |
-| 乾 Qián | ☰ | Heaven    | North-West | Battles |
-| 坎 Kǎn  | ☵ | Water     | North      | Toils |
-| 艮 Gèn  | ☶ | Mountain  | North-East | Completes |
-
-### hmm
-
-Some notes on the directions.  In ancient China, maps were oriented with south at the top. so if you draw these out on a page and want to visualize the placement, fire is at the top of the page, not the bottom.
+### Some notes on the directions.  
+In ancient China, maps were oriented with south at the top. so if you draw these out on a page and want to visualize the placement, fire is at the top of the page, not the bottom.
 
 Also, the placement of the symbols in these directions is attributed to King Wen, but before King Wen, there was a another layout of the trigrams attributed to Fu Xi, which (in my mind) is more balanced (and accurate). 
 <br />
@@ -411,3 +396,146 @@ and in what way does any of that make the trigam able to change-ization.
 and in what way does that then complete the 10k-things?
 <br />
 <br />
+
+
+## in a word
+| Original | English Translation |
+| -: | -- |
+| 乾 健 也 | Qián(Heavens): Strong . |
+| 坤 順 也 | Kūn(Earth): Accommodating . |
+| 震 動 也 | Zhèn(Thunder): Moving . |
+| 巽 入 也 | Xùn(Wind): Uniting . |
+| 坎 陷 也 | Kǎn(Water): Slippery . |
+| 離 麗 也 | Lí(Fire): Beautiful . |
+| 艮 止 也 | Gèn(Mountain): Still . |
+| 兌 說 也 | Duì(Lake): Persuasive . |
+
+<br />
+
+## animals
+| Original | English Translation |
+| -: | -- |
+| 乾 為 馬 | Qián(Heavens) is as the horse |
+| 坤 為 牛 | Kūn(Earth) is as the cow |
+| 震 為 龍 | Zhèn(Thunder) is as the dragon |
+| 巽 為 雞 | Xùn(Wind) is as the chicken |
+| 坎 為 豕 | Kǎn(Water) is as the boar |
+| 離 為 雉 | Lí(Fire) is as the pheasant |
+| 艮 為 狗 | Gèn(Mountain) is as the dog |
+| 兌 為 羊 | Duì(Lake) is as the goat |
+
+<br />
+
+## Body
+| Original | English Translation |
+| -: | -- |
+| 乾 為 首 | Qián(Heavens) acts as head |
+| 坤 為 腹 | Kūn(Earth) acts as stomach |
+| 震 為 足 | Zhèn(Thunder) acts as feet |
+| 巽 為 股 | Xùn(Wind) acts as nose (or thighs depends on how you read it) |
+| 坎 為 耳 | Kǎn(Water) acts as ears |
+| 離 為 目 | Lí(Fire) acts as eyes |
+| 艮 為 手 | Gèn(Mountain) acts as hands |
+| 兌 為 口 | Duì(Lake) acts as mouth |
+
+<br />
+
+## Family
+| Original | English Translation |
+| -: | -- |
+| 乾 - 天 也 | Qián(Heavens): Heaven . |
+| 故 稱 乎 父 | Ancients called as "Father" |
+| 坤 - 地 也 | Kūn(Earth): Earth . |
+| 故 稱 乎 母 | Ancients called as "Mother" |
+| 震 一 索 而 得 男 | Zhèn(Thunder): first sought and obtained son |
+| 故 謂 之 長 男 | Ancients called him "Eldest Son" |
+| 巽 一 索 而 得 女 | Xùn(Wind): first sought and obtained daughter |
+| 故 謂 之 長 女 | Ancients called her "Eldest Daughter" |
+| 坎 再 索 而 得 男 | Kǎn(Water): second sought and obtained son |
+| 故 謂 之 中 男 | Ancients called him "Middle Son" |
+| 離 再 索 而 得 女 | Lí(Fire): second sought and obtained daughter |
+| 故 謂 之 中 女 | Ancients called her "Middle Daughter" |
+| 艮 三 索 而 得 男 | Gèn(Mountain): third sought and obtained son |
+| 故 謂 之 少 男 | Ancients called him "Youngest Son" |
+| 兌 三 索 而 得 女 | Duì(Lake): third sought and obtained daughter |
+| 故 謂 之 少 女 | Ancients called her "Youngest Daughter" |
+
+<br />
+
+## A Quick table summarizing all of that
+
+| Symbol  | Trigram | Name | Direction | Action       | Adjective | Animal      | Body | Family Member |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 乾 Qián | ☰ | Heaven    | North-West | Battles     | Strong     | Horse       | Head | Father |
+| 坤 Kūn  | ☷ | Earth     | South-West | Distributes support | Accommodating | Cow | Stomach | Mother |
+| 震 Zhèn | ☳ | Thunder   | East       | Introduces  | Moving     | Dragon      | Feet | Eldest Son |
+| 巽 Xùn  | ☴ | Wind/Wood | South-East | Disperses   | Uniting    | Chicken     | Nose | Eldest Daughter |
+| 坎 Kǎn  | ☵ | Water     | North      | Toils       | Slippery   | Boar        | Ears | Middle Son |
+| 離 Lí   | ☲ | Fire      | South      | Sheds light | Beautiful  | Pheasant    | Eyes | Middle Daughter |
+| 艮 Gèn  | ☶ | Mountain  | North-East | Completes   | Still      | Dog         | Hands | Youngest Son |
+| 兌 Duì  | ☱ | Lake      | West       | Advertises  | Persuasive | Goat        | Mouth | Youngest Daughter |
+
+<br />
+
+
+## Qián(Heavens)
+| Original | English Translation |
+| -: | -- |
+| 乾 | Qián(Heavens)... |
+| 為 天 | acts as the sky |
+| 為 圜 | acts as the circle |
+| 為 君 | acts as the ruler |
+| 為 父 | acts as the father |
+| 為 玉 | acts as jade |
+| 為 金 | acts as gold |
+| 為 寒 | acts as the winter |
+| 為 冰 | acts as the ice |
+| 為 大 赤 | acts as the great red |
+| 為 良 馬 | acts as the well-bread horse |
+| 為 老 馬 | acts as the old horse |
+| 為 瘠 馬 | acts as the sickly horse |
+| 為 駁 馬 | acts as the wild horse |
+| 為 木 果 | acts as the tree fruits |
+
+<br />
+
+## Kūn(Earth)
+| Original | English Translation |
+| -: | -- |
+| 坤 | Kūn(Earth)... |
+| 為 地 | acts as the earth |
+| 為 母 | acts as the mother |
+| 為 布 | acts as the linen |
+| 為 釜 | acts as the kettle |
+| 為 吝 嗇 | acts as frugal spendthrift |
+| 為 均 | acts as the equal |
+| 為 子 母 牛 | acts as the motherly cow |
+| 為 大 輿 | acts as the great carriage |
+| 為 文 | acts as the writer |
+| 為 眾 | acts as the crowd |
+| 為 柄 | acts as the lever |
+| 其 於 地 也 為 黑 | her inner earth also acts as the darkness |
+
+<br />
+
+## Zhèn(Thunder)
+| Original | English Translation |
+| -: | -- |
+| 震 | Zhèn(Thunder)... |
+| 為 雷 | acts as the thunder |
+| 為 龍 | acts as the dragon |
+| 為 玄 黃 | acts as the mysterious yellow |
+| 為 旉 | acts as the announcer |
+| 為 大 塗 | acts as the large mud |
+| 為 長 子 | acts as the chief noble |
+| 為 決 躁 | acts as the assertive jerk |
+| 為 蒼 筤 竹 | acts as the green bamboo shoots |
+| 為 萑 葦 其 於 馬 也 | acts as the grass reeds that out of horse . |
+| 為 善 鳴 | acts as good music |
+| 為 馵 足 | acts as the horse foot |
+| 為 作 足 | acts as the developing foot |
+| 為 的 顙 其 於 稼 也 | acts as the clear forehead that within sowes grain . |
+| 為 反 生 其 究 為 健 | acts as rebel life-giving that investigtes acting healthy-strong |
+| 為 蕃 鮮 | acts as luxurious delicacies |
+
+
