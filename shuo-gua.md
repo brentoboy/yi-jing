@@ -588,4 +588,58 @@ and in what way does that then complete the 10k-things?
 | 為 盜 其 於 木 也 | is as the bandit that within the wood . (robin hood? is that you?) |
 | 為 堅 多 心 | it is as the firm mostly center |
 
+<br />
+
+## Lí(Fire)
+| Original | English Translation |
+| -: | -- |
+| 離 | Lí(Fire)... |
+| 為 火 | is as the fire |
+| 為 日 | is as the sun (or day) |
+| 為 電 | is as the lightning |
+| 為 中 女 | is as the middle daughter |
+| 為 甲 胃 | is as the shell stomach |
+| 為 戈 兵 其 於 人 也 | is as the spear weapon that is within man . |
+| 為 大 腹 | is as the large belly |
+| 為 乾 卦 | is as heaven gua |
+| 為 鱉 | is as the turtle |
+| 為 蟹 | is as the crab |
+| 為 蠃 | is as the lone wasp |
+| 為 蚌 | is as the oysters |
+| 為 龜 其 於 木 也 | is as the turtle that within the tree . |
+| 為 科 上 槁 | is as the high branches of the dead tree |
+
+<br />
+
+## Gèn(Mountain)
+| Original | English Translation |
+| -: | -- |
+| 艮 | Gèn(Mountain) |
+| 為 山 | is as the mountain |
+| 為 徑 路 | is as the straight road |
+| 為 小 石 | is as the small stone |
+| 為 門 闕 | is as the entryway to the watchtower |
+| 為 果 蓏 | is as the fruit of the vines |
+| 為 閽 寺 | is as the door of the temple |
+| 為 指 | is as the finger-pointing |
+| 為 狗 | is as the dog |
+| 為 鼠 | is as the mouse (or rat) |
+| 為 黔 喙 之 屬 其 於 木 也 | is as the bird mouth's classification that within wood . |
+| 為 堅 多 節 | is as the stiff many joints |
+
+<br />
+
+## Duì(Lake)
+| Original | English Translation |
+| -: | -- |
+| 兌 | Duì(Lake) |
+| 為 澤 | is as the wetlands (lake / marsh) |
+| 為 少 女 | is as youngest daughter |
+| 為 巫 | is as the shaman (medium) |
+| 為 口 舌 | is as the mouth tongue |
+| 為 毀 折 | is as the injurous break |
+| 為 附 決 其 於 地 也 | is as the pending judgement that within earth |
+| 為 剛 鹵 | is as the rock salt |
+| 為 妾 | is as the maid-servant |
+| 為 羊 | is as the goat (or sheep) |
 
