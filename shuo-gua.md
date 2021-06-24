@@ -482,20 +482,20 @@ and in what way does that then complete the 10k-things?
 | Original | English Translation |
 | -: | -- |
 | 乾 | Qián(Heavens)... |
-| 為 天 | acts as the sky |
-| 為 圜 | acts as the circle |
-| 為 君 | acts as the ruler |
-| 為 父 | acts as the father |
-| 為 玉 | acts as jade |
-| 為 金 | acts as gold |
-| 為 寒 | acts as the winter |
-| 為 冰 | acts as the ice |
-| 為 大 赤 | acts as the great red |
-| 為 良 馬 | acts as the well-bread horse |
-| 為 老 馬 | acts as the old horse |
-| 為 瘠 馬 | acts as the sickly horse |
-| 為 駁 馬 | acts as the wild horse |
-| 為 木 果 | acts as the tree fruits |
+| 為 天 | is as the sky |
+| 為 圜 | is as the circle |
+| 為 君 | is as the ruler |
+| 為 父 | is as the father |
+| 為 玉 | is as jade |
+| 為 金 | is as gold |
+| 為 寒 | is as the winter |
+| 為 冰 | is as the ice |
+| 為 大 赤 | is as the great red |
+| 為 良 馬 | is as the well-bread horse |
+| 為 老 馬 | is as the old horse |
+| 為 瘠 馬 | is as the sickly horse |
+| 為 駁 馬 | is as the wild horse |
+| 為 木 果 | is as the tree fruits |
 
 <br />
 
@@ -503,18 +503,18 @@ and in what way does that then complete the 10k-things?
 | Original | English Translation |
 | -: | -- |
 | 坤 | Kūn(Earth)... |
-| 為 地 | acts as the earth |
-| 為 母 | acts as the mother |
-| 為 布 | acts as the linen |
-| 為 釜 | acts as the kettle |
-| 為 吝 嗇 | acts as frugal spendthrift |
-| 為 均 | acts as the equal |
-| 為 子 母 牛 | acts as the motherly cow |
-| 為 大 輿 | acts as the great carriage |
-| 為 文 | acts as the writer |
-| 為 眾 | acts as the crowd |
-| 為 柄 | acts as the lever |
-| 其 於 地 也 為 黑 | her inner earth also acts as the darkness |
+| 為 地 | is as the earth |
+| 為 母 | is as the mother |
+| 為 布 | is as the linen |
+| 為 釜 | is as the kettle |
+| 為 吝 嗇 | is as frugal spendthrift |
+| 為 均 | is as the equal |
+| 為 子 母 牛 | is as the mother cow |
+| 為 大 輿 | is as the great carriage |
+| 為 文 | is as the writer |
+| 為 眾 | is as the multitude (of people) |
+| 為 柄 | is as the lever |
+| 其 於 地 也 為 黑 | her inner earth also is as the darkness |
 
 <br />
 
@@ -522,20 +522,70 @@ and in what way does that then complete the 10k-things?
 | Original | English Translation |
 | -: | -- |
 | 震 | Zhèn(Thunder)... |
-| 為 雷 | acts as the thunder |
-| 為 龍 | acts as the dragon |
-| 為 玄 黃 | acts as the mysterious yellow |
-| 為 旉 | acts as the announcer |
-| 為 大 塗 | acts as the large mud |
-| 為 長 子 | acts as the chief noble |
-| 為 決 躁 | acts as the assertive jerk |
-| 為 蒼 筤 竹 | acts as the green bamboo shoots |
-| 為 萑 葦 其 於 馬 也 | acts as the grass reeds that out of horse . |
-| 為 善 鳴 | acts as good music |
-| 為 馵 足 | acts as the horse foot |
-| 為 作 足 | acts as the developing foot |
-| 為 的 顙 其 於 稼 也 | acts as the clear forehead that within sowes grain . |
-| 為 反 生 其 究 為 健 | acts as rebel life-giving that investigtes acting healthy-strong |
-| 為 蕃 鮮 | acts as luxurious delicacies |
+| 為 雷 | is as the thunder |
+| 為 龍 | is as the dragon |
+| 為 玄 黃 | is as the mysterious yellow (?) |
+| 為 旉 | is as the announcer |
+| 為 大 塗 | is as the large mud |
+| 為 長 子 | is as the chief noble |
+| 為 決 躁 | is as the assertive jerk |
+| 為 蒼 筤 竹 | is as the green bamboo shoots |
+| 為 萑 葦 其 於 馬 也 | is as the grass reeds that out of horse . |
+| 為 善 鳴 | is as good music |
+| 為 馵 足 | is as the horse foot |
+| 為 作 足 | is as the developing foot (?) |
+| 為 的 顙 其 於 稼 也 | is as the clear forehead that within sowes grain .  (?) |
+| 為 反 生 其 究 為 健 | is as rebel life-giving that investigtes acting healthy-strong (?) |
+| 為 蕃 鮮 | is as luxurious delicacies |
+
+<br />
+
+## Xùn(Wind)
+| Original | English Translation |
+| -: | -- |
+| 巽 | Xùn(Wind)... |
+| 為 木 | is as the wood |
+| 為 風 | is as the wind |
+| 為 長 女 | is as the elder daughter |
+| 為 繩 直 | is as the verticle rope |
+| 為 工 | is as the laborer |
+| 為 白 | is as the blank-stair (?) |
+| 為 長 | is as the long |
+| 為 高 | is as the tall |
+| 為 進 退 | is as the advance / retreat |
+| 為 不 果 | is not as the fruits |
+| 為 臭 其 於 人 也 | is as the stink that comes from men . |
+| 為 寡 髮 | is as the balding hair  |
+| 為 廣 顙 | is as the broad forehead |
+| 為 多 白 眼 | is as the often blank-stair eye (?) |
+| 為 近 利 市 三 倍 | is as the approaching beneficial market 3 times (?) |
+| 其 究 為 躁 卦 | that investigate acting hot-tempered Gua (?) |
+
+<br />        
+
+## Kǎn(Water)
+| Original | English Translation |
+| -: | -- |
+| 坎 | Kǎn(Water)... |
+| 為 水 | is as the water |
+| 為 溝 瀆 | is as the narrow ditch |
+| 為 隱 伏 | is as the hidden ambush |
+| 為 矯 輮 | is as the contentious wheel-band (? the cart-wheel that refuses to stay fixed?) |
+| 為 弓 輪 其 於 人 也 | is like the bow rotating that within man . (?) |
+| 為 加 憂 | is as the bringer of anxiety |
+| 為 心 病 | is as the soul of the sickness |
+| 為 耳 痛 | is as the merely painful |
+| 為 血 卦 | is as the blood Gua |
+| 為 赤 其 於 馬 也 | is as the red that within horse . |
+| 為 美 脊 | is as the beautiful spine |
+| 為 亟 心 | is as the urgent mind |
+| 為 下 首 | is as the below leader |
+| 為 薄 蹄 | is as the meager pig leg |
+| 為 曳 其 於 輿 也 | is as the dragging that within the carriage . (?) |
+| 為 多 眚 | is as the multiple mistakes |
+| 為 通 | is as the path through  |
+| 為 月 | is as the moon |
+| 為 盜 其 於 木 也 | is as the bandit that within the wood . (robin hood? is that you?) |
+| 為 堅 多 心 | it is as the firm mostly center |
 
 
