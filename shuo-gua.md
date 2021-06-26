@@ -13,7 +13,7 @@
 | 而 倚 數 | and trusting those numbers |
 | 觀 變 於 陰 陽 | (they) observed the transformations of yin (and) yang |
 | 而 立 卦 | and drew up the "Gua" |
-| 發 揮 於 剛 柔 | the coming forth (then) fading away of firm (then) yeilding |
+| 發 揮 於 剛 柔 | the coming forth (then) fading away of solid (then) broken |
 | 而 生 爻 | and created the "Yao"(Lines that compose a Gua) |
 | 和 順 於 道 德 | (they) harmoniously followed the Way("Dao") Virtues("De") | 
 | 而 理 於 義 | and oversaw with integrity |
@@ -22,7 +22,7 @@
 <br />
 
 ### summary so far .. 
-YiJing was written by ancient sages
+Yi-Jing was written by ancient sages
 who were inspired to use yarrow sticks as a method of divination.
 They counted yarrow sticks. 
 3 meant heaven, and 2 meant earth.
@@ -30,8 +30,8 @@ They counted yarrow sticks.
 Heaven/Earth being the original two "gua" (gua = answers they could get by consulting yarrow sticks).
 
 The gua were "drawn" using lines called "yao".
-A solid line was used to draw a yao that was "firm" or "yang" (a property of heaven).
-A broken line was used to draw a yao that was "yeilding" or "yin" (a property of earth).
+A solid line was used to draw a yao that was "solid" or "yang" (a property of heaven).
+A broken line was used to draw a yao that was "broken" or "yin" (a property of earth).
 
 After divining the situation, the sages could live in accordance with the Dao of the moment.
 They used this insight to manage thier lives in Virtue("De"),
@@ -52,9 +52,9 @@ In harmony with the Way("Dao") they emptied themselves until they reached life's
 | 兼 三 才 而 兩 之 | combining the 3 and then paired them |
 | 故 易 六 畫 | thus changes draw 6 |
 | 而 成 卦 | and become a Gua (hexagram) |
-| 分 陰 | distribute the yin |
-| 分 陽 | distribute the yang |
-| 迭 用 柔 剛 | alternately using the yeilding (and) the firm |
+| 分 陰 | identifying yin |
+| 分 陽 | identifying yang |
+| 迭 用 柔 剛 | alternately using the broken (and) the solid |
 | 故 易 六 位 | old changes("yi") in 6 positions |
 | 而 成 章 | and completed the phase |
 
@@ -62,10 +62,10 @@ In harmony with the Way("Dao") they emptied themselves until they reached life's
 
 ### summary so far...
 The sages built on their original observation\
-(that things alternate between firm and yeilding: yang/yin,  heaven/earth.\
-They realized that the heavens cycle between firm and yeilding: yang/yin, light/dark, day/night.\
-And, the earth is also both firm and yeilding which manifest as hard and soft, stone/dirt, ice/water.\
-And, that man also alternates between firm and yeilding. (firmness of character, and yeilding to selflessness) Justice/Mercy, righteousness/compassion, strictness/leniency, integrity/loyalty
+(that things alternate between solid and broken: yang/yin,  heaven/earth.\
+They realized that the heavens cycle between solid and broken: yang/yin, light/dark, day/night.\
+And, the earth is also both solid and broken which manifest as hard and soft, stone/dirt, ice/water.\
+And, that man also alternates between solid and broken. (solidness of character, and broken to selflessness) Justice/Mercy, righteousness/compassion, strictness/leniency, integrity/loyalty
 
 Since the energies of the heaven, earth, and man, can alternate independently of each other, they can be combined together into "Trigrams" that together represent the yin-yang balance of the universe at a moment.\
 Ok, it doesn't say that, it just says that they combined them into trigrams (images with 3 lines).
@@ -92,7 +92,7 @@ After all changing lines finish their change, the current moment/image is comple
 | Original | English Translation |
 | -: | -- |
 | 天 地 定 位 | Heaven (and) Earth in fixed positions  |
-| 山 澤 通 氣 | Mountain (and) Lake interacting through "qi"(energy flow) |
+| 山 澤 通 氣 | Mountain (and) Marsh interacting through "qi"(energy flow) |
 | 雷 風 相 薄 | Thunder (and) Wind to each-other draw near |
 | 水 火 不 相 射 | Water (and) Fire not each-other emitting |
 | 八 卦 相 錯 | The 8("Ba") Trigram("Gua") mutually interchanging |
@@ -107,7 +107,7 @@ They are paired up by switching all 3 yao in each trigram to the yao of the oppo
 
 heaven(☰) / earth(☷) 's positions are fixed relative to each other.
 
-mountain(☶) / lake(☱) 
+mountain(☶) / marsh(☱) 
 
 thunder(☳) / wind(☴) often show up together in the same storm.
 
@@ -140,10 +140,10 @@ for instance if you start with earth (all three yin) but the middle line is chan
 | 風 以 散 之 | Wind in order to disperse them |
 | 雨 以 潤 之 | Rain in order to moisten them |
 | 日 以 烜 之 | the Sun in order to cast light on them |
-| 艮 以 止 之 | Gèn("Mountain") in order to stop them |
-| 兌 以 說 之 | Duì("Lake") in order to persuade them |
-| 乾 以 君 之 | Qián("Heaven") in order to govern them |
-| 坤 以 藏 之 | Kūn("Earth") in order to store them up |
+| 艮 以 止 之 | Gèn(Mountain) in order to stop them |
+| 兌 以 說 之 | Duì(Marsh) in order to persuade them |
+| 乾 以 君 之 | Qián(Heaven) in order to govern them |
+| 坤 以 藏 之 | Kūn(Earth) in order to store them up |
 
 <br />
 
@@ -164,7 +164,7 @@ For instance, "rain" and "sun" are NOT the same characters as the ones used in o
 | 齊 乎 巽 | disperses via Xùn(Wind) |
 | 相 見 乎 離 | observes others via Lí(Fire) |
 | 致 役 乎 坤 | distributes support via Kūn(Earth) |
-| 說 言 乎 兌 | advertises words via Duì(Lake) |
+| 說 言 乎 兌 | advertises words via Duì(Marsh) |
 | 戰 乎 乾 | battles via Qián(Heavens) |
 | 勞 乎 坎 | toils via Kǎn(Water) |
 | 成 言 乎 艮 | completes words via Gèn(Mountain) |
@@ -179,7 +179,7 @@ he announces his idea with thunder,\
 spreads it out with wind,\
 watches how others accept it via fire,\
 uses earth to fund the effort,\
-lake to promote or advertise the idea,\
+marsh to promote or advertise the idea,\
 the heavens to call the shots, issue commands to make the idea happen,\
 water to do whatever manual labor has to be done,\
 and then at the mountain the idea reaches completion.
@@ -210,10 +210,10 @@ and then at the mountain the idea reaches completion.
 | 故 曰 | hence was said: |
 | 致 役 乎 坤 | "distributes support via Kūn(Earth)" |
 | ~ | |
-| 兌 - 正 秋 也 | Duì(Lake) - directly "autumn" (I assume that's synonomous with West).|
+| 兌 - 正 秋 也 | Duì(Marsh) - directly "autumn" (I assume that's synonomous with West).|
 | 萬 物 之 所 說 也 | the location where the 10k-things advertise. |
 | 故 曰 | hence was said: |
-| 說 言 乎 兌 | "advertises words via Duì(Lake)" |
+| 說 言 乎 兌 | "advertises words via Duì(Marsh)" |
 | ~ | |
 | 戰 乎 乾 | battle via Qián(Heavens) |
 | 乾 - 西 北 之 卦 也 | Qián(Heavens) - North-West's gua. |
@@ -248,16 +248,14 @@ Also, the placement of the symbols in these directions is attributed to King Wen
 | 動 萬 物 者 莫 疾 乎 雷 | those of the 10k things which are not stirring are dispelled via thunder |
 | 橈 萬 物 者 莫 疾 乎 風 | those of the 10k things which are not twisty-branch are dispelled via wind |
 | 燥 萬 物 者 莫 熯 乎 火 | those of the 10k-things which are not parched are dried out via fire |
-| 說 萬 物 者 莫 說 乎 澤 | those of the 10k-things which are not persuaded are persuaded via lakes |
+| 說 萬 物 者 莫 說 乎 澤 | those of the 10k-things which are not persuaded are persuaded via marshes |
 | 潤 萬 物 者 莫 潤 乎 水 | those of the 10k things which are not moist are moistened by water |
 | 終 萬 物 始 萬 物 者 莫 盛 乎 艮 | those of the 10k-things which are not finished or started are restrained via Mountain |
 | 故 水 火 相 逮 | ergo, water and flame together undo |
-| 雷 風 不 相 悖 | thunder and wind do not each other resist |
-| 山 澤 通 氣 | mountain and lake interact through the air(qi) |
+| 雷 風 不 相 悖 | thunder and wind are not contrary to each other |
+| 山 澤 通 氣 | mountain and marsh interact through the air(qi) |
 | 然 後 能 變 化 | thus afterward are able to change-transform |
-| 既 成 萬 物 也 | then competing the 10k-things . |
-
-Thunder and wind are not incompatible
+| 既 成 萬 物 也 | since (they) completed the 10k-things . |
 
 <br />
 
@@ -278,11 +276,11 @@ and in what way does that then complete the 10k-things?
 | 乾 健 也 | Qián(Heavens): Strong . |
 | 坤 順 也 | Kūn(Earth): Accommodating . |
 | 震 動 也 | Zhèn(Thunder): Moving . |
-| 巽 入 也 | Xùn(Wind): Uniting . |
+| 巽 入 也 | Xùn(Wind): Entering . |
 | 坎 陷 也 | Kǎn(Water): Slippery . |
 | 離 麗 也 | Lí(Fire): Beautiful . |
 | 艮 止 也 | Gèn(Mountain): Still . |
-| 兌 說 也 | Duì(Lake): Persuasive . |
+| 兌 說 也 | Duì(Marsh): Persuasive . |
 
 <br />
 
@@ -296,7 +294,7 @@ and in what way does that then complete the 10k-things?
 | 坎 為 豕 | Kǎn(Water) is as the boar |
 | 離 為 雉 | Lí(Fire) is as the pheasant |
 | 艮 為 狗 | Gèn(Mountain) is as the dog |
-| 兌 為 羊 | Duì(Lake) is as the goat |
+| 兌 為 羊 | Duì(Marsh) is as the goat |
 
 <br />
 
@@ -310,7 +308,7 @@ and in what way does that then complete the 10k-things?
 | 坎 為 耳 | Kǎn(Water) is as the ears |
 | 離 為 目 | Lí(Fire) is as the eyes |
 | 艮 為 手 | Gèn(Mountain) is as the hands |
-| 兌 為 口 | Duì(Lake) is as the mouth |
+| 兌 為 口 | Duì(Marsh) is as the mouth |
 
 <br />
 
@@ -331,7 +329,7 @@ and in what way does that then complete the 10k-things?
 | 故 謂 之 中 女 | Ancients called her "Middle Daughter" |
 | 艮 三 索 而 得 男 | Gèn(Mountain): third sought and obtained son |
 | 故 謂 之 少 男 | Ancients called him "Youngest Son" |
-| 兌 三 索 而 得 女 | Duì(Lake): third sought and obtained daughter |
+| 兌 三 索 而 得 女 | Duì(Marsh): third sought and obtained daughter |
 | 故 謂 之 少 女 | Ancients called her "Youngest Daughter" |
 
 <br />
@@ -343,11 +341,11 @@ and in what way does that then complete the 10k-things?
 | 乾 Qián | ☰ | Heaven    | North-West | Battles     | Strong     | Horse       | Head | Father |
 | 坤 Kūn  | ☷ | Earth     | South-West | Distributes support | Accommodating | Cow | Stomach | Mother |
 | 震 Zhèn | ☳ | Thunder   | East       | Introduces  | Moving     | Dragon      | Feet | Eldest Son |
-| 巽 Xùn  | ☴ | Wind/Wood | South-East | Disperses   | Uniting    | Chicken     | Nose | Eldest Daughter |
+| 巽 Xùn  | ☴ | Wind/Wood | South-East | Disperses   | Entering   | Chicken     | Nose | Eldest Daughter |
 | 坎 Kǎn  | ☵ | Water     | North      | Toils       | Slippery   | Boar        | Ears | Middle Son |
 | 離 Lí   | ☲ | Fire      | South      | Sheds light | Beautiful  | Pheasant    | Eyes | Middle Daughter |
 | 艮 Gèn  | ☶ | Mountain  | North-East | Completes   | Still      | Dog         | Hands | Youngest Son |
-| 兌 Duì  | ☱ | Lake      | West       | Advertises  | Persuasive | Goat        | Mouth | Youngest Daughter |
+| 兌 Duì  | ☱ | Marsh     | West       | Advertises  | Persuasive | Goat        | Mouth | Youngest Daughter |
 
 <br />
 
@@ -471,7 +469,7 @@ and in what way does that then complete the 10k-things?
 | 為 月 | is as the moon |
 | 為 盜 | is as the bandit |
 | 其 於 木 也 | among trees also... |
-| 為 堅 多 心 | it is as the firm multi-centered |
+| 為 堅 多 心 | it is as the solid multi-centered |
 
 <br />
 
@@ -513,15 +511,15 @@ and in what way does that then complete the 10k-things?
 | 為 鼠 | is as the mouse (or rat) |
 | 為 黔 喙 之 屬 | qian beak 's group |
 | 其 於 木 也 | among trees also... |
-| 為 堅 多 節 | is as the firm multi-jointed |
+| 為 堅 多 節 | is as the solid multi-jointed |
 
 <br />
 
-## Duì(Lake)
+## Duì(Marsh)
 | Original | English Translation |
 | -: | -- |
-| 兌 | Duì(Lake) |
-| 為 澤 | is as the wetlands (lake / marsh) |
+| 兌 | Duì(Marsh) |
+| 為 澤 | is as the marsh |
 | 為 少 女 | is as youngest daughter |
 | 為 巫 | is as the shaman (witch) |
 | 為 口 舌 | is as the mouth tongue |
