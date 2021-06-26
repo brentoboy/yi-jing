@@ -81,10 +81,17 @@ Made available for distribution under the Creative Commons License.
 63. [䷾ - 既濟 - Ji Ji - Already Crossing the River](Hexagram-63.md) : Water / Fire
 64. [䷿ - 未濟 - Wei Ji - Not Yet Crossing the River](Hexagram-64.md) : Fire / Water
 
-## More Ancient Commentaries
-* Xi Ci I - The Great Commentary
-* Xi Ci II
-* WenYan
-* [Shuo Gua](shuo-gua.md) : explaination of the trigrams (incomplete)
-* Xu Gua
-* Za Gua
+## The 10 Wings (Ancient Commentaries)
+There are 10 wings that bring life to the yi jing.
+
+1. 彖傳 Tuan Zhuan : Commentary on the Judgement (is in the Hexagram pages, since its a 1:1 relationship)
+2. 彖下傳 Tuan Next Zhuan : Commentary on the Judgement, part 2 (I'm not 100% sure what this is yet)
+3. 象傳 Xiang zhuan : Commentary on the Image (is in the Hexagram pages, since its a 1:1 relationship)
+4. 象下傳 Xiang Next Zhuan : Commentary on the Images of the Lines (is in the Hexagram pages, since its a 1:1 relationship)
+5. 繫辭傳 Xi Ci Zhuan : The Great Commentaray
+6. 繫辭下傳 Xi Ci Next Zhuan : 2nd Great Commentary
+7. 文言傳 Wen Yan Zhuan, Commentary by King Wen (on the 1st 2 Hexagrams)
+8. 序卦傳 Xu Gua Zhuan : Commentary on the Hexagram Sequence
+9. [說卦傳 Shuo Gua Zhuan](shuo-gua.md) : Commentary on the Trigrams
+10. 雜卦傳 Za Gua Zhuan : Commentary the Za Gua
+

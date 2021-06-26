@@ -1,5 +1,5 @@
 # Shuo Gua
-*Ancient Commentary / description of the Yi-Jing*
+*Ancient Commentary / Explaination of the Trigrams*
 <br />
 <br />
 
