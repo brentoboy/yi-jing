@@ -1,0 +1,488 @@
+<html>
+<head>
+	<title>me myself and i ching</title>
+	<style>
+		html {
+			font-size: 2vw;
+			font-family: Arial, Helvetica, sans-serif;
+			background: #111;
+			color: #ddd;
+		}
+		body {
+			padding: 2rem;
+		}
+		* {
+			border: none;
+			font-family: inherit;
+			font-size: inherit;
+			line-height: inherit;
+			margin: 0;
+			padding: 0;
+		}
+		h1 { font-size: 2rem; line-height: 1.75; color: #444 }
+		h2 { font-size: 1.5rem; line-height: 1.75; color: #666 }
+		h3 { font-size: 1.25rem; line-height: 1.5; color: #888 }
+		h4 { font-size: 1.125rem; line-height: 1.5; color: #aaa }
+		textarea, input {
+			font-size: inherit;
+			font-family: Consolas, "Courier New", monospace;
+			background: black;
+			color: #ccc;
+			padding: .25em .5em;
+			border: 4px solid #ccc;
+		}
+		input:focus, 
+		textarea:focus {
+			background-color: #000808;
+			color: #fff0f0;
+			border-color: #fff0f0;
+		}
+		*:focus {
+			outline: none;
+		}
+		button {
+			padding: .5rem 1.5rem;
+			font-weight: bold;
+			background: #888;
+			color: #111;
+			border-radius: .25em;
+		}
+		button:hover,
+		button:focus {
+			background: #777;
+			color: #000;
+		}
+		#q {
+			height: 15rem;
+			line-height: 1.25;
+			width: 100%;
+		}
+		.button-bar {
+			padding: 1rem 0;
+			display: flex;
+			justify-content: space-between;
+		}
+		ul, li{
+			list-style-type: none;
+			margin: .25em 0em;
+		}
+		.generated-result {
+			display: flex;
+			align-items: baseline;
+			border: 4px solid #444;
+			padding: .75rem 2rem 1rem 1rem;
+		}
+		.hexagram-summary, .changing-lines {
+			display: flex;
+			flex-direction: column;
+			margin: 0 .5rem;
+		}
+		.hexagram-summary > * {
+			display: flex;
+			justify-content: space-between;
+			align-items: baseline;
+		}
+		.hexagram-summary > * > * {
+			margin: .1rem .75rem;
+		}
+		.generated-result > h1 {
+			align-self: center;
+		}
+
+	</style>
+</head>
+<body>
+	<h1>Yi Jing - The Book of Changes</h1>
+	<h2>Explain Your Situation</h2>
+	<textarea id="q" spellcheck="false"></textarea>
+
+	<div class="button-bar">
+		<div id="result"></div>
+		<button onclick="roll()">Generate</button>
+	</div>
+	
+
+	<div>
+		<h3>Lines are based on the following:</h3>
+		<ul>
+			<li>Line 1 (bottom): the number of words</li>
+			<li>Line 2: the number of letters</li>
+			<li>Line 3: the number of consonants</li>
+			<li>Line 4: the number of vowels (a e i o u)</li>
+			<li>Line 5: the number of y's and w's</li>
+			<li>Line 6 (top): sum of index of all letters (A=1, B=2...)</li>
+		</ul>
+		<br />
+		<p>Take those numbers, and re-wrap every 8 .. so, 0, 1, 2, 3 ... 7, 0, 1, 2.</p>
+		<ul>
+			<li>odds are yang, evens are yin</li>
+			<li>0 is old yin</li>
+			<li>7 is old yang</li>
+		</ul>
+		<p>the idea here is that the math is easy enough to do in your head, but hard enough to keep track of.  So, your subconcious mind can do it as you type, and in this way you can get your own mind to absentmindedly give you a reading.</p>
+		<p>so, sit down, pour your heart out, and then finsish with a clear i-ching question. then, read it over, edit as needed until it "sits right".  once you like what you have here, click generate to get your hexagram and moving lines.</p>
+	</div>
+	<script>
+	const QIAN = "⚊⚊⚊",
+		ZHEN = "⚊⚋⚋",
+		KAN = "⚋⚊⚋",
+		GEN = "⚋⚋⚊",
+		KUN = "⚋⚋⚋",
+		XUN = "⚋⚊⚊",
+		LI = "⚊⚋⚊",
+		DUI = "⚊⚊⚋"
+		;
+	
+	const trigrams = {
+		[QIAN]: { name_en: "Heaven", name_ch: "乾", pinyin: "Qián", image: "☰", tri: QIAN },
+		[ZHEN]: { name_en: "Thunder", name_ch: "震", pinyin: "Zhèn", image: "☳", tri: ZHEN },
+		[KAN]: { name_en: "Water", name_ch: "坎", pinyin: "Kǎn", image: "☵", tri: KAN },
+		[GEN]: { name_en: "Mountain", name_ch: "艮", pinyin: "Gèn", image: "☶", tri: GEN },
+		[KUN]: { name_en: "Earth", name_ch: "坤", pinyin: "Kūn", image: "☷", tri: KUN },
+		[XUN]: { name_en: "Wind", name_ch: "巽", pinyin: "Xùn", image: "☴", tri: XUN },
+		[LI]: { name_en: "Fire", name_ch: "離", pinyin: "Lí", image: "☲", tri: LI },
+		[DUI]: { name_en: "Marsh", name_ch: "兌", pinyin: "Duì", image: "☱", tri: DUI },
+	}
+
+	const hexagramLookupTable = {
+		[buildHexagram(QIAN, QIAN)]: 1,
+		[buildHexagram(QIAN, ZHEN)]: 25,
+		[buildHexagram(QIAN, KAN)]: 6,
+		[buildHexagram(QIAN, GEN)]: 33,
+		[buildHexagram(QIAN, KUN)]: 12,
+		[buildHexagram(QIAN, XUN)]: 44,
+		[buildHexagram(QIAN, LI)]: 13,
+		[buildHexagram(QIAN, DUI)]: 10,
+
+		[buildHexagram(ZHEN, QIAN)]: 34,
+		[buildHexagram(ZHEN, ZHEN)]: 51,
+		[buildHexagram(ZHEN, KAN)]: 40,
+		[buildHexagram(ZHEN, GEN)]: 62,
+		[buildHexagram(ZHEN, KUN)]: 16,
+		[buildHexagram(ZHEN, XUN)]: 32,
+		[buildHexagram(ZHEN, LI)]: 55,
+		[buildHexagram(ZHEN, DUI)]: 54,
+
+		[buildHexagram(KAN, QIAN)]: 5,
+		[buildHexagram(KAN, ZHEN)]: 3,
+		[buildHexagram(KAN, KAN)]: 29,
+		[buildHexagram(KAN, GEN)]: 39,
+		[buildHexagram(KAN, KUN)]: 8,
+		[buildHexagram(KAN, XUN)]: 48,
+		[buildHexagram(KAN, LI)]: 63,
+		[buildHexagram(KAN, DUI)]: 60,
+
+		[buildHexagram(GEN, QIAN)]: 26,
+		[buildHexagram(GEN, ZHEN)]: 27,
+		[buildHexagram(GEN, KAN)]: 4,
+		[buildHexagram(GEN, GEN)]: 52,
+		[buildHexagram(GEN, KUN)]: 23,
+		[buildHexagram(GEN, XUN)]: 18,
+		[buildHexagram(GEN, LI)]: 22,
+		[buildHexagram(GEN, DUI)]: 41,
+
+		[buildHexagram(KUN, QIAN)]: 11,
+		[buildHexagram(KUN, ZHEN)]: 24,
+		[buildHexagram(KUN, KAN)]: 7,
+		[buildHexagram(KUN, GEN)]: 15,
+		[buildHexagram(KUN, KUN)]: 2,
+		[buildHexagram(KUN, XUN)]: 46,
+		[buildHexagram(KUN, LI)]: 36,
+		[buildHexagram(KUN, DUI)]: 19,
+
+		[buildHexagram(XUN, QIAN)]: 9,
+		[buildHexagram(XUN, ZHEN)]: 42,
+		[buildHexagram(XUN, KAN)]: 59,
+		[buildHexagram(XUN, GEN)]: 53,
+		[buildHexagram(XUN, KUN)]: 20,
+		[buildHexagram(XUN, XUN)]: 57,
+		[buildHexagram(XUN, LI)]: 37,
+		[buildHexagram(XUN, DUI)]: 61,
+
+		[buildHexagram(LI, QIAN)]: 14,
+		[buildHexagram(LI, ZHEN)]: 21,
+		[buildHexagram(LI, KAN)]: 64,
+		[buildHexagram(LI, GEN)]: 56,
+		[buildHexagram(LI, KUN)]: 35,
+		[buildHexagram(LI, XUN)]: 50,
+		[buildHexagram(LI, LI)]: 30,
+		[buildHexagram(LI, DUI)]: 38,
+
+		[buildHexagram(DUI, QIAN)]: 43,
+		[buildHexagram(DUI, ZHEN)]: 17,
+		[buildHexagram(DUI, KAN)]: 47,
+		[buildHexagram(DUI, GEN)]: 31,
+		[buildHexagram(DUI, KUN)]: 45,
+		[buildHexagram(DUI, XUN)]: 28,
+		[buildHexagram(DUI, LI)]: 49,
+		[buildHexagram(DUI, DUI)]: 58,
+	}
+
+	const hexagrams = []
+	Object.keys(hexagramLookupTable).forEach(lines => {
+		const lower = trigrams[lines.substring(0,3)]
+		const upper = trigrams[lines.substring(3,7)]
+		const hex = hexagramLookupTable[lines]
+		const info = {
+			hex,
+			lines,
+			upper,
+			lower, 
+		}
+		hexagrams[hex] = info
+	})
+	console.log(hexagrams)
+
+	function isChanging(rollResult) {
+		switch(rollResult % 8) {
+			case 0:
+			case 7: return true
+			default: return false
+		}
+	}
+	function getFirstYinOrYang(rollResult) {
+		return rollResult % 2 === 1 ? "⚊" : "⚋"
+	}
+	function getSecondYinOrYang(rollResult) {
+		return isChanging(rollResult) ? getFirstYinOrYang(rollResult + 1) : getFirstYinOrYang(rollResult)
+	}
+	function buildHexagram(upperTrigram, lowerTrigram) {
+		return lowerTrigram + upperTrigram
+	}
+	function getFirstHexagram(rolls) {
+		var lines = rolls.map(getFirstYinOrYang).join("")
+		return hexagrams[hexagramLookupTable[lines]]
+	}
+	function getSecondHexagram(rolls) {
+		var lines = rolls.map(getSecondYinOrYang).join("")
+		return hexagrams[hexagramLookupTable[lines]]
+	}
+	function getChangingLines(rolls) {
+		return rolls.map((roll, index) => isChanging(roll) ? index + 1 : null).filter(Boolean);
+	}
+
+	function roll() {
+		var textarea = document.getElementById("q");
+		var A_minus_1 = "A".charCodeAt(0) - 1;
+		var blob = textarea.value.toUpperCase();
+		var letters = blob.match(/[A-Z]/g) || [];
+		var totalLetters = letters.length;
+		var totalVowels = (blob.match(/[AEIOU]/g) || []).length;
+		var totalYandW = (blob.match(/[YW]/g) || []).length;
+		var totalConsonants = (blob.match(/[BCDFGHJKLMNPQRSTVWXYZ]/g) || []).length;
+		var words = blob.match(/[A-Z\']+/g) || [];
+		var sumOfLetters = letters.map(x=>x.charCodeAt(0) - A_minus_1).reduce((a,b)=>a+b, 0);
+
+		var rolls = [
+			words.length,
+			totalLetters,
+			totalConsonants,
+			totalVowels,
+			totalYandW,
+			sumOfLetters
+		]
+
+		const fromHexagram = getFirstHexagram(rolls);
+		const toHexagram = getSecondHexagram(rolls);
+		const changingLines = getChangingLines(rolls);
+		const formatTrigram = tri => tri.image + " " + tri.name_en 
+		console.log(fromHexagram.upper, toHexagram.upper)
+		const resultContent = Dom.makeElements(`
+			<div class="generated-result">
+				<div class="hexagram-summary">
+					<h4>
+						<span>Hexagram</span>
+						<span>${fromHexagram.hex}</span>
+					</h4>
+					<div>
+						<span>${formatTrigram(fromHexagram.upper)}</span>
+					</div>
+					<div>
+						<span>${formatTrigram(fromHexagram.lower)}</span>
+					</div>
+				</div>
+				<h1>${(fromHexagram == toHexagram) ? " = " : " ➧ "}</h1>
+				<div class="hexagram-summary">
+					<h4>
+						<span>Hexagram</span>
+						<span>${toHexagram.hex}</span>
+					</h4>
+					<div>
+						<span>${formatTrigram(toHexagram.upper)}</span>
+					</div>
+					<div>
+						<span>${formatTrigram(toHexagram.lower)}</span>
+					</div>
+				</div>
+				<h1>${(fromHexagram == toHexagram) ? "  " : " 〰 "}</h1>
+				<div class="changing-lines">
+					<h4>Lines</h4>
+					<div>${changingLines.join(", ") || "none"}</div>
+				</div>
+			</div>
+		`)
+		
+		console.log(rolls, rolls.map(roll => roll % 8));
+		console.log(fromHexagram, toHexagram, changingLines)
+		Dom.replaceContent(document.getElementById("result"), resultContent)
+	}
+	</script>
+	<script>
+		((() => {
+			const temp = document.createElement("template")
+
+			function makeAppendable(stuffToAppend) {
+				if (!stuffToAppend) {
+					return document.createTextNode("")
+				}
+				if (stuffToAppend instanceof Node) {
+					return stuffToAppend
+				}
+				if (Array.isArray(stuffToAppend)) {
+					const fragment = new DocumentFragment()
+					stuffToAppend.forEach(x => appendInto(fragment, x))
+					return fragment
+				}
+				if (typeof stuffToAppend === "string") {
+					return document.createTextNode(stuffToAppend)
+				}
+				if (typeof stuffToAppend === "object" && typeof stuffToAppend.getDomNode === "function") {
+					return makeAppendable(stuffToAppend.getDomNode())
+				}
+				else {
+					const err = Error("I cant append this!")
+					console.error(err, stuffToAppend)
+					throw err
+				}
+			}
+			function appendInto(target, stuffToAppend) {
+				if (!target) {
+					// boom baby
+				}
+				if (!typeof target.appendChild === "function") {
+					// boom baby
+				}
+				if (!stuffToAppend) {
+					return
+				}
+				if (Array.isArray(stuffToAppend) && stuffToAppend.length === 0) {
+					console.warn("?") //
+					return
+				}
+				target.appendChild(makeAppendable(stuffToAppend))
+			}
+			function replaceSlot(target, slotName, newContent) {
+				const slot = findFirstMatching(target, `slot[name="${slotName}"]`)
+				if (!slot) {
+					console.warn("?") //
+					return
+				}
+				replaceWith(slot, newContent)
+			}
+			function replaceWith(target, newContent) {
+				target.replaceWith(makeAppendable(newContent))
+			}
+			function replaceContent(target, newContent) {
+				clearContent(target)
+				appendInto(target, newContent)
+			}
+			function replaceSlots(target, slotContents) {
+				if (!slotContents) {
+					Logger.warn("?")
+					return
+				}
+				Object.keys(slotContents).forEach(slotName => {
+					replaceSlot(target, slotName, slotContents[slotName])
+				})
+			}
+			function makeElements(rawMarkup, slotContents) {
+				if (!rawMarkup) {
+					return []
+				}
+				temp.innerHTML = rawMarkup.trim();
+				const fragment = new DocumentFragment()
+				fragment.appendChild(temp.content)
+				if (slotContents) {
+					replaceSlots(fragment, slotContents)
+				}
+				return asElementArray(fragment)
+			}
+			function asElementArray(nodes) {
+				if (!nodes) {
+					return [];
+				}
+				if (nodes.childNodes) {
+					return asElementArray(nodes.childNodes);
+				}
+				const arr = []
+				for (let i = 0; i < nodes.length; i++) {
+					arr[i] = nodes[i]
+				}
+				return arr
+			}
+			function makeElement(rawMarkup, slotContents) {
+				const elements = makeElements(rawMarkup, slotContents)
+				if (elements.length === 0) {
+					Logger.warn("?")
+				}
+				if (elements.length > 1) {
+					Logger.warn("?")
+				}
+				return elements[0]
+			}
+			function destroy(domStuff) {
+				if (!domStuff) {
+					console.warn() //
+					return
+				}
+				// debating whether or not this sort of thing is wise
+				// if (typeof target.destroy === "function") target.destroy()
+				appendInto(temp, domStuff)
+				clearContent(temp.content)
+			}
+			function clearContent(target) {
+				if (!target) {
+					console.warn() //
+					return
+				}
+				target.textContent = ""
+			}
+			function findFirstMatching(haystack, querySelector) {
+				return findAllMatching(haystack, querySelector)[0]
+			}
+			function findAllMatching(haystack, querySelector) {
+				if (!haystack) {
+					console.warn("Empty haystack! Seems worth investigating?", { haystack, querySelector })
+					return []
+				}
+				if (!querySelector) {
+					console.warn("Empty querySelector! Seems worth investigating?", { querySelector })
+					return []
+				}
+				if (Array.isArray(haystack)) {
+					return haystack.map(x => findAllMatching(x, querySelector)).flat()
+				}
+				if (haystack.nodeType == 3) {
+					return []
+				}
+				if (typeof haystack.querySelectorAll !== "function") {
+					const err = Error("haystack doesn't have a querySelectorAll function")
+					console.error(err, haystack)
+					throw err
+				}
+				return asElementArray(haystack.querySelectorAll(querySelector))
+			}
+			window.Dom = Object.freeze({
+				appendInto,
+				clearContent,
+				destroy,
+				findAllMatching,
+				findFirstMatching,
+				makeElement,
+				makeElements,
+				replaceContent,
+			})
+		})())
+	</script>
+</body>
+</html>

@@ -95,3 +95,5 @@ There are 10 wings that bring life to the yi jing.
 9. [說卦傳 Shuo Gua Zhuan](shuo-gua.md) : Commentary on the Trigrams
 10. 雜卦傳 Za Gua Zhuan : Commentary the Za Gua
 
+## Consult the Oracle
+[Me, Myself and I-Ching](consult-the-oracle.html) : write a journal entry, and use it to seed the results of a yi-jing reading.
