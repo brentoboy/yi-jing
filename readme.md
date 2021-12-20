@@ -18,7 +18,7 @@ Made available for distribution under the Creative Commons License.
 ## The 64 Hexagrams
 1. [䷀ - 乾 - Qián - Radiant Energy](Hexagram-01.md) : Heaven / Heaven
 2. [䷁ - 坤 - Kūn - Open Fields](Hexagram-02.md) : Earth / Earth
-3. 屯 Zhun (Hexagram-03.md) : Water / Mountain
+3. 屯 Zhun (Hexagram-03.md) : Water / Thunder
 4. 蒙 Meng (Hexagram-04.md) : Mountain / Water
 5. 需 Xu (Hexagram-05.md) : Water / Heaven
 6. 訟 Song (Hexagram-06.md) : Heaven / Water

@@ -1,5 +1,5 @@
 # Shuo Gua
-*Ancient Commentary / Explaination of the Trigrams*
+*Ancient Commentary / Explanation of the Trigrams*
 <br />
 <br />
 
@@ -191,7 +191,6 @@ and then at the mountain the idea reaches completion.
 | -: | -- |
 | 萬 物 | The 10k-things... | 
 | 出 乎 震 | (are) introduced via Zhèn(Thunder) |
-| 震 東 方 也 | introduce via Zhèn(Thunder) |
 | 震 東 方 也| Zhèn(Thunder) is directly East. |
 | ~ | |
 | 齊 乎 巽 | (are) dispersed via Xùn(Wind) |
@@ -354,15 +353,15 @@ and in what way does that then complete the 10k-things?
 | Original | English Translation |
 | -: | -- |
 | 乾 | Qián(Heavens)... |
-| 為 天 | is as the heaven (sky) |
-| 為 圜 | is as the round |
+| 為 天 | is as the heavens (sky) |
+| 為 圜 | is as the circle |
 | 為 君 | is as the ruler |
 | 為 父 | is as the father |
 | 為 玉 | is as the jade |
 | 為 金 | is as the gold |
 | 為 寒 | is as the winter |
 | 為 冰 | is as the ice |
-| 為 大 赤 | is as the large red |
+| 為 大 赤 | is as the deep red |
 | 為 良 馬 | is as the well-bread horse |
 | 為 老 馬 | is as the old horse |
 | 為 瘠 馬 | is as the sickly horse |
@@ -424,7 +423,7 @@ and in what way does that then complete the 10k-things?
 | 為 木 | is as the wood |
 | 為 風 | is as the wind |
 | 為 長 女 | is as the eldest daughter |
-| 為 繩 直 | is as the verticle rope |
+| 為 繩 直 | is as the vertical rope |
 | 為 工 | is as the skilled-laborer |
 | 為 白 | is as the white |
 | 為 長 | is as the long |

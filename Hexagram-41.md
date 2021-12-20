@@ -44,7 +44,7 @@
 | 元 吉 | first good fortune |
 | 无 咎 | not wrong |
 | 可 貞 | can be virtuous |
-| 利 有 攸 往 | benefial to have a distant destination |
+| 利 有 攸 往 | beneficial to have a distant destination |
 | 曷 之 用 | what's the use? |
 | 二 簋 可 用 享 | two offering-baskets could be useful to have access to |
 <br />
